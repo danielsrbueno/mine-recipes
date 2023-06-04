@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, p, ol, a {
+    font-family: 'VT-323', monospace;
+    color: #403F3B;
+}
+h1 {
+    font-size: 60px;
+    margin: 10px;
+}
+
+h2 {
+    margin: 0 0 17px 0;
+}
+
+p {
+    font-size: 25px;
+    margin: 1px 0 40px 0;
+}
+
+body {
+    background-color: #FFFEF2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #f8f4af;
+    width: 98.9vw;
+    align-items: center;
+}
+
+header > ol > a {
+    color: #403F3B;
+}
+
+.conteiner {
+    background-color: #fffdd0;
+    width: 65vw;
+    margin: 5vh 0 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 2%;
+    border: 10px solid #f8f4af;
+}
+
+.fotoCupim {
+    width: 30vw;
+    border-radius: 5%;
+}
+
+.selecaoCupim {
+    padding: 10px;
+    margin: 0 100px;
+    background-color: #FFFEF2;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.receita {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header > ol {
+    margin: 10px 20px;
+}
+.ingredientes > h2 {
+    margin: 40px 0 0 0;
+}
+
+.logo {
+    width: 75px;
+}
+
+.modoDePreparo > h2 {
+    margin: 20px 0 10px 4vw;
+}
+
+.modoDePreparo img {
+    border-radius: 5%;
+}
+
+.modoDePreparo > .passo1 {
+    margin: 20px 10px 10px 21vw;
+    font-size: 1.5rem;
+
+}
+
+.modoDePreparo > .primeiroPasso{
+    display: flex;
+    align-items: center;
+}
+
+.modoDePreparo > .primeiroPasso > img {
+    width: 20vw;
+    margin: 0 0 0 25px;
+}
+
+.modoDePreparo > .primeiroPasso > p {
+    font-size: 1.1rem;
+    margin: 0 0 0 15px;
+}
+
+.modoDePreparo > .passo2 {
+    margin: 40px 10px 10px 21vw;
+    font-size: 1.5rem;
+
+}
+
+.modoDePreparo > .segundoPasso{
+    display: flex;
+    align-items: center;
+}
+
+.modoDePreparo > .segundoPasso > img {
+    width: 20vw;
+    margin: 0 0 0 25px;
+}
+
+.modoDePreparo > .segundoPasso > p {
+    font-size: 1.1rem;
+    margin: 0 0 0 15px;
+}
+
+.modoDePreparo > .passo3 {
+    margin: 40px 10px 10px 21vw;
+    font-size: 1.5rem;
+
+}
+
+.modoDePreparo > .terceiroPasso{
+    display: flex;
+    align-items: center;
+}
+
+.modoDePreparo > .terceiroPasso > img {
+    width: 20vw;
+    margin: 0 0 0 25px;
+}
+
+.modoDePreparo > .terceiroPasso > p {
+    font-size: 1.1rem;
+    margin: 0 0 0 15px;
+}
+
+.modoDePreparo > .passo4 {
+    margin: 40px 10px 10px 21vw;
+    font-size: 1.5rem;
+
+}
+
+.modoDePreparo > .quartoPasso{
+    display: flex;
+    align-items: center;
+}
+
+.modoDePreparo > .quartoPasso > img {
+    width: 20vw;
+    margin: 0 0 0 25px;
+}
+
+.modoDePreparo > .quartoPasso > p {
+    font-size: 1.1rem;
+    margin: 0 0 0 15px;
+}
+
+.modoDePreparo > .passo5 {
+    margin: 40px 10px 10px 21vw;
+    font-size: 1.5rem;
+
+}
+
+.modoDePreparo > .quintoPasso{
+    display: flex;
+    align-items: center;
+}
+
+.modoDePreparo > .quintoPasso > img {
+    width: 20vw;
+    margin: 0 0 0 25px;
+}
+
+.modoDePreparo > .quintoPasso > p {
+    font-size: 1.1rem;
+    margin: 0 0 0 15px;
+}
+
+.modoDePreparo > .passo6 {
+    margin: 40px 10px 10px 21vw;
+    font-size: 1.5rem;
+
+}
+
+.modoDePreparo > .sextoPasso{
+    display: flex;
+    align-items: center;
+}
+
+.modoDePreparo > .sextoPasso > img {
+    width: 20vw;
+    margin: 0 0 0 25px;
+}
+
+.modoDePreparo > .sextoPasso > p {
+    font-size: 1.1rem;
+    margin: 0 0 0 15px;
+}
+
+.modoDePreparo > .passo7 {
+    margin: 40px 10px 10px 21vw;
+    font-size: 1.5rem;
+
+}
+
+.modoDePreparo > .setimoPasso{
+    display: flex;
+    align-items: center;
+}
+
+.modoDePreparo > .setimoPasso > img {
+    width: 20vw;
+    margin: 0 0 0 25px;
+}
+
+.modoDePreparo > .setimoPasso > p {
+    font-size: 1.1rem;
+    margin: 0 0 0 15px;
+}
+
+.videoModoDePreparo > h2 {
+    margin: 20px 0 10px 4vw;
+}
+
+.videoModoDePreparo > video {
+    margin: 20px 0 10px 4vw;
+    width: 220px;
+}
+
+.PDFModoDePreparo > h2 {
+    margin: 20px 0 10px 4vw;
+}
+
+.PDFModoDePreparo > a {
+    margin: 20px 0 10px 4vw;
+    font-size: 30px;
+}

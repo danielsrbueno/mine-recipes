@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, p {
+    font-family: 'VT-323', monospace;
+    color: #403F3B;
+}
+h1 {
+    font-size: 60px;
+    margin: 10px;
+}
+
+h2 {
+    margin: 0 0 17px 0;
+}
+
+p {
+    font-size: 25px;
+    margin: 1px 0 40px 0;
+}
+
+body {
+    background-color: #FFFEF2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #f8f4af;
+    width: 98.9vw;
+    align-items: center;
+}
+
+header > ol > a {
+    color: #403F3B;
+}
+
+.conteiner {
+    background-color: #fffdd0;
+    width: 65vw;
+    height: 90vh;
+    margin: 5vh 0 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 2%;
+    border: 10px solid #f8f4af;
+}
+
+.fotoCupim {
+    width: 30vw;
+    border-radius: 5%;
+}
+
+.selecaoCupim {
+    padding: 10px;
+    background-color: #FFFEF2;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.receitas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header > ol {
+    margin: 10px 20px;
+}
+
+.logo {
+    width: 75px;
+}
+
+audio {
+    margin: 0 0 30px 13vw;
+}
+
+
+.divHR {
+    display: flex;
+    flex-direction: row;
+}
+
+hr {
+    z-index: 1;
+}
