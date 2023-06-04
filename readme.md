@@ -2,7 +2,7 @@
 
 ![preview](/src/img/printIndex.png)
 
-[🔗 Clique aqui para acessar](https://danielsrbueno.github.io/receita-trabalho-pw/)
+[🔗 Clique aqui para acessar](https://danielsrbueno.github.io/mine-recipes/)
 
 ## 🎯 Sobre o desenvolvimento
 
