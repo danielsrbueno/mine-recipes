@@ -12,7 +12,6 @@ Esse projeto foi desenvolvido para um trabalho de Programação Web (10/04/2023)
 
 - HTML
 - CSS
-- JS
 - Github
 
 ## 📱 Contato
